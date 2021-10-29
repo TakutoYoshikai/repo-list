@@ -1,0 +1,3 @@
+#!/bin/bash
+
+gh repo list -L 10000 | cut -f 1
